@@ -20,7 +20,7 @@ Pyplot
 * https://pypi.org/project/matplotlib/
 * plt.style.use('fivethirtyeight')
 
-os
+OS
 * import os
 
 Numpy
