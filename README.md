@@ -35,7 +35,7 @@ Skimage
 * 3: Answer the questions given
 
 ## What I Learned
-* How to use the tensorflow libaray to train the AI and based on data and take that data to classify a image
+* How to use the tensorflow library to train the AI and based on data and take that data to classify a image
 * How to use Numpy to turn data into an array and make it easier for the AI to class the image
 * How to use skimage to resize a image 
 * pyplot to show a image 
